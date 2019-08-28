@@ -1,0 +1,13 @@
+some codes i tested when i started using git:
+
+git init
+git add .
+git reset
+git help
+git restore package.json
+gir rm package.json
+git config user.email "firefox@gmail.com"
+git commit -m "commiting a commit"
+git remote add origin https://github.com/username/repository.git
+git push -u origin master
+git pull --rebase origin master
