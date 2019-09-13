@@ -14,3 +14,4 @@ git commit -m "commiting a commit"
 git remote add origin https://github.com/username/repository.git
 git push -u origin master
 git pull --rebase origin master
+git push --set-upstream origin master
